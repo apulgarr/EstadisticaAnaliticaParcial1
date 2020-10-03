@@ -1,0 +1,1 @@
+# EstadisticaAnaliticaParcial1
